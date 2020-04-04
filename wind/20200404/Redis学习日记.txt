@@ -1,0 +1,8 @@
+下载
+windows版本：
+    https://github.com/MSOpenTech/redis/releases
+Linux版本：
+    官网下载：
+        http://www.redis.cn/
+    git下载
+        https://github.com/antirez/redis/releases
